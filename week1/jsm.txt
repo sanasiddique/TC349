@@ -1,0 +1,4 @@
+The website josonsantamaria.com is basically a blog. I like the timeline appearance of the blog as it seems familiar. It looks simple yet elegant at the same time. The choice of colors for the website is good. I also like that video's have been embedded directly on the website. 
+
+Looking at the page source of the website one can tell that the simple styling was included within the html and not in a separate CSS document.
+Also since there are a large number of articles posted on the website it is probably backed by a database system which maintains these articles' information and their paths.
