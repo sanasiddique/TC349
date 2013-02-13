@@ -1,9 +1,19 @@
 body {
 	background-color:#f000ff;
+	border-top: 5pm solid #424242;
+	margin: 0 auto;
+	font-family: "Helvetica", sans-serif;
+	line-height: 1.0cm;
+	width: 600px;
+
+	}
+h1, h2, h3{
+	margin:0;
 	}
 h1 {
+	padding: 20px 15px;
 	color:blue;
-	font-family:"Times New Roman",Georgia,Serif;
+	font-family:"Helvetica", sans-serif;
 	}
 h2{
 	color: purple;
@@ -11,3 +21,23 @@ h2{
 h3{
 	color: green;
 }
+
+
+
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+}
+
+
+
+li
+{
+float:left;
+padding: 10;
+border: 10;
+margin: 10;
+}
+

@@ -1,0 +1,3 @@
+The website is basically an online shopping website. I like the combination of colors, the work well together. I believe important things about items like price can be a little more larger in font and highlighted. Otherwise, navigation on the website is pretty simple. 
+
+Also, I noticed that every item has been implemented using the box CSS view. They all have padding, border and a margin. I have shopped on the website before and I think it is pretty good for an online shop. Formatting on all pages is similar and elegant. 
