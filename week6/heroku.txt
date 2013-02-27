@@ -1,0 +1,2 @@
+This website seems to provide a platform for cloud based application development. It's a very good looking website and very easy to navigate and very user-friendly. I believe anyone who visits the website should easily be able to find what they are looking for. It appears like the website uses a lot of javascript in designing besides css. 
+It follows the same header-body-footer format that we learnt today. The combination of colors although dark work well together. I think it is a very good looking website.

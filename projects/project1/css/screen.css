@@ -1,10 +1,5 @@
 body {
 	background-color:#f000ff;
-	border-top: 5pm solid #424242;
-	margin: 0 auto;
-	font-family: "Helvetica", sans-serif;
-	line-height: 1.0cm;
-	width: 600px;
 
 	}
 h1, h2, h3{
@@ -22,22 +17,36 @@ h3{
 	color: green;
 }
 
-
-
-ul
-{
-list-style-type:none;
-margin:0;
-padding:0;
+p{
+padding: 50px;
+}
+article{
+	width: 250px;
+	padding: 20px;
+	float:left;
+	margin: 20px;
+	background-color:#f000ff;
+	}
+ul{
+list-style-type:none;}
+.wrap{
+	margin: 0 10%;
+	width: 800 px;
+	background-color:#ee82ee;
+	
+}
+.hobby{
+	margin: 0 10%;
+	width: 600 px;
+	
+	
 }
 
 
 
-li
-{
-float:left;
-padding: 10;
-border: 10;
-margin: 10;
+
+ footer{
+clear: both;
+background-color:#fa8072;
 }
 
