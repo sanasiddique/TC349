@@ -1,0 +1,3 @@
+I usually access the amazn mobil website through my cell phone. The mobile website takes all the features of the main website and fits them on the screen so you dont have to readjust or zoom while browsing. Search results can be viewed as a list instead of a grid pattern. 
+The same website works just as well on any tablet so obviously they have also used width=100% for media devices.
+The overall browsing and shopping experience isnt compromised although the viewer is using a smaller screen. 

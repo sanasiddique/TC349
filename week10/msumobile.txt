@@ -1,0 +1,4 @@
+The msu mobile site readjusts icons to the screen of different kinds of cell phones. looking at the code it doesnt appear that bootstrap or ratchet was used in making it. The experience on the smaller screen of the cell phone becomes better as the icons are resized accordingly. It also appears that zoom has been locked for the mobile website. 
+The appearance of links and navigation is more similar to the one we saw in ratchert because they all take up the entire width of the screen.
+The mobile website obviously doesnt look that great when run on a laptop browser.
+Many different kinds of navigation components have been used. Not all menu options from the main website are on the mobile version.
