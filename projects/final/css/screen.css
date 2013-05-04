@@ -1,17 +1,21 @@
 body {
 	background: url(images/bg.jpg);
+    border-radius: 10px;
 
+-webkit-border-radius: 10px;
+
+-moz-border-radius: 10px;
 	}
 h1, h2, h3{
 	margin:0;
 	}
 h1 {
 	padding: 20px 15px;
-	color:purple;
+	color:#4B0082;
 	font-family:"Helvetica", sans-serif;
 	}
 h2{
-	color: purple;
+	color: #4B0082;
 	}
 h3{
 	color: green;
@@ -19,33 +23,52 @@ h3{
 
 p{
 padding: 50px;
+font-size:150%;
+text-align: center;
+}
+.centerit{ 
+    text-align: center;
 }
 article{
 	width: 250px;
 	padding: 20px;
 	float:left;
 	margin: 20px;
-	
+	border-radius: 10px;
+
+-webkit-border-radius: 10px;
+
+-moz-border-radius: 10px;
+
 	}
-ul{
-list-style-type:none;}
+	
 .wrap{
 	margin: 0 10%;
-	width: 800 px;
-	background-color:#ee72ee;
+	width: 80%;
+	background-color:#edda74;
+	 border-radius: 10px;
+
+-webkit-border-radius: 10px;
+
+-moz-border-radius: 10px;
 	
 }
 .header{
 	margin: 0 20%;
 	width: 800 px;
 	background-color:#ee92ee;
+	border: 5px solid #4B0082;
+	border-radius: 10px;
 	
+-webkit-border-radius: 10px;
+
+-moz-border-radius: 10px;
+
 }
 .hobby{
-	margin: 0 10%;
-	width: 600 px;
 	
-	
+	text-align: center;
+
 }
 
 
@@ -54,5 +77,79 @@ list-style-type:none;}
  footer{
 clear: both;
 background-color:#ee92ee;
+border: 5px solid #4B0082;
+   border-radius: 10px;
+
+-webkit-border-radius: 10px;
+
+-moz-border-radius: 10px;
+
 }
 
+#nav {
+    list-style: none;
+    font-weight: bold;
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
+	 
+
+}
+
+ul {
+    list-style-type: none;
+ padding: 0;
+ display:inline-block; 
+   
+
+}
+
+ li {
+   
+	float:left;
+}
+
+ li a {
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #4B0082;
+    float: left
+}
+
+ li a:hover {
+    color: #FFFFFF;
+    background-color: #35af3b;
+}
+@media(max-width: 320px){
+.wrap{
+ border-radius: 50px;
+
+-webkit-border-radius: 50px;
+
+-moz-border-radius: 50px;
+}
+h1{
+ 
+width: 100%;
+
+
+}
+li {
+      
+	text-align: center;
+
+	float:none;
+}
+ 
+ article{
+ text-align: center;
+}
+
+.hobby{
+	
+	text-align: center;
+	margin: 0 30%;
+}
+}
